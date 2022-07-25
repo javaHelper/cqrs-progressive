@@ -85,8 +85,8 @@ Response:
 ```
 <img width="1511" alt="Screenshot 2022-07-25 at 2 16 14 PM" src="https://user-images.githubusercontent.com/54174687/180736509-5efb20fe-4db3-422b-821b-2172a0a0c9c7.png">
 
-![Uploading Screenshot 2022-07-25 at 2.16.48 PM.png…]()
 
+<img width="1444" alt="Screenshot 2022-07-25 at 2 16 48 PM" src="https://user-images.githubusercontent.com/54174687/180736728-41a1cfcf-e0ce-4611-a6c1-7736c68b8611.png">
 
 
 
